@@ -42,39 +42,39 @@ module.exports = {
     //all emojis in ManageGift support server | الاينوحيات بتلقوها بروم في السيبورت سيرفر الخاص بالبوت
 	emojis: {
 
-	success: "<:check:709868389505695916>",
+	success: "XXXX",
 
-	error: "<:error:709868467007913995>",
+	error: "XXXX",
 	
-	gift: "<:giftbox:709868426382016592>",
+	gift: "XXXX",
 
-	end: "<:present:710620794547470426>",
+	end: "XXXX",
 
-	time: "<:stopwatch:710623384957878302>",
+	time: "XXXX",
 
-	hoste: "<:avatar:710633368189927454>",
+	hoste: "XXXX",
 
-	ping: "<:4_:659424837890080818>",
+	ping: "XXXX",
 
-	link: "<:7_:659426399391580221>",
+	link: "XXXX",
 
-	add: "<:9_:659427030626205696>",
+	add: "XXXX",
 
-	vote: "<:37:659439098163101746>",
+	vote: "XXXX",
 
-	supp: "<:11:659427754734780416>",
+	supp: "XXXX",
 
-	command: "<:copy:713395484093579304>",
+	command: "XXXX",
 
-	featured: "<:premium:713405393749016739>",
+	featured: "XXXX",
 
-	right: "<:right:713401529897451520>",
+	right: "XXXX",
 
-	stats: "<:graphbar:714264468401553428>",
+	stats: "XXXX",
 
-	ver: "<:version:714266855753121822>",
+	ver: "XXXX",
 	
-	info: "<:info:714274664423358504>"
+	info: "XXXX"
 	}
 
 }
