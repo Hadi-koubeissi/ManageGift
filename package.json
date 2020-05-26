@@ -1,0 +1,41 @@
+{
+  "name": "ManageGift's",
+  "version": "1.1",
+  "description": "ManageGift's | BY Hadi Koubeissi using discord-giveaways package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadi-Koubeissi/ManageGift..git"
+  },
+  "keywords": [
+    "ManageGift's",
+    "discord bot",
+    "giveaway discord bot",
+    "giveawaybot",
+    "Arab bot",
+    "setlang command",
+    "discord.js",
+    "discord website"
+  ],
+  "author": "Hadi-Koubeissi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadi-Koubeissi/ManageGift/issues"
+  },
+  "dependencies": {
+    "discord.js": "12.2.0",
+    "better-sqlite3": "^6.0.1",
+    "discord-giveaways": "^4.1.3",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "path": "0.12.7",
+    "quick.db": "^7.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  }
+}
