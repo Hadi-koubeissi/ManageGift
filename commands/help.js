@@ -15,6 +15,8 @@ exports.run = async (client, message, args) => {
 
     let version = require("../package.json").version;
     
+    let discord_giveaways = require("../package.json").dependencies["discord-giveaways"];
+
     let supportURL = config.auth.support;
 
     let web = "http://managegift.ga";
@@ -35,7 +37,7 @@ exports.run = async (client, message, args) => {
 
     .addField(lang.help.stats, lang.help.stat + message.client.guilds.cache.size + `\n` + lang.help.set + message.client.users.cache.size)
  
-    .addField(lang.help.ver, `\`Discord.js : v${Discord.version}\`\n\`Nodejs : v${process.versions.node}\`\n\`ManageGift's : v${version}\``)
+    .addField(lang.help.ver, `\`Discord.js : v${Discord.version}\`\n\`Nodejs : v${process.versions.node}\`\n\`Discord-giveaways :v${discord_giveaways}\`\n\`ManageGift's : v${version}\``)
 
     .addField(lang.help.moreinfo, lang.help.comd + message.client.commands.size + `\n` + lang.help.giv + client.giveawaysManager.giveaways.length)
 
