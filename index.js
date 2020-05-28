@@ -103,13 +103,6 @@ client.giveawaysManager.on("giveawayReactionAdded", (giveaway, member, reaction)
     }
 });
 
-    client.giveawaysManager.on("giveawayEnded", (giveaway, winners) => {
-   
-        winners.forEach((winner) => {
-        giveaway.message.guild.member(winner.id).send("Hello, you won"+giveaway.prize+"!");
-    })
-})
-
 client.giveawaysManager.on("giveawayReactionRemoved", (giveaway, member, reaction) => {
 
     try {
