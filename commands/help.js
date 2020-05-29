@@ -35,6 +35,8 @@ exports.run = async (client, message, args) => {
 
     .addField(lang.help.cm, lang.help.cmd)
 
+    .addField(lang.help.cmm, lang.help.cmdd)
+
     .addField(lang.help.stats, lang.help.stat + message.client.guilds.cache.size + `\n` + lang.help.set + message.client.users.cache.size)
  
     .addField(lang.help.ver, `\`Discord.js : v${Discord.version}\`\n\`Nodejs : v${process.versions.node}\`\n\`Discord-giveaways :v${discord_giveaways}\`\n\`ManageGift's : v${version}\``)

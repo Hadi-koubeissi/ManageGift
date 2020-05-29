@@ -101,6 +101,8 @@ module.exports = {
     disc: 'It is an open source bot that allows you to create giveaway with ease and gives you many distinct features. The bot is Programmed in `javascript language` and By: ! -  HaDi KouBeIssI | 🇱🇧#4001',
     cm: `__${e.command} ManageGift's Commands:__`,
     cmd: `**${config.prefix}start ${e.right} To create giveaway.**\n**${config.prefix}end ${e.right} To end giveaway start.**\n**${config.prefix}edit ${e.right} To edit giveaway.**\n**${config.prefix}reroll ${e.right} To Choose a new winner.**\n **${e.featured}__Featured commands:__**\n**${config.prefix}setlang ${e.right} To change the languag of bot.**\n**${config.prefix}set logs ${e.right} For setup the room of logs.**\n**${config.prefix}set mention on ${e.right} To active the mention on all start giveaway.**\n**${config.prefix}set mention off ${e.right} To disabel the mention on all start giveaway.**`,
+    cmm: `__${e.command} Info Commands__`,
+    cmdd: `**${config.prefix}help ${e.right} display commands and info of bot list.**\n**${config.prefix}ping ${e.right} display bot Latency.**\n**${config.prefix}invite ${e.right} display main links of bot.**`,
     stats: `__${e.stats} Statistics:__`,
     stat: `\`Servers:\` `,
     set: `\`Users:\` `,
