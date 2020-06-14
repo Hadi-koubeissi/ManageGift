@@ -7,4 +7,4 @@
 [![support](https://img.shields.io/badge/SUPPORT-BY%20PAYPAL-orange?style=for-the-badge)](https://paypal.me/Hadikob)
 > ManageGift is very easy and simple for use on your server!.
 
-## ✨ Features
+## ✨  Features
