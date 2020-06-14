@@ -8,3 +8,4 @@
 > ManageGift is very easy and simple for use on your server!.
 
 ## ✨  Features
+> Total Commands In The ManageGift is **9**! and more soon.
