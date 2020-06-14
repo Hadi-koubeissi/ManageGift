@@ -6,4 +6,4 @@
 
 [![discord](https://img.shields.io/discord/710852417100578849?color=blue&label=DISCORD&style=for-the-badge)](https://discord.gg/7XfV4Md)
 
-[![support](https://img.shields.io/badge/SUPPORT-BY%20PAYPAL-orange&style=for-the-badge)](https://paypal.me/Hadikob)
+[![support](https://img.shields.io/badge/SUPPORT-BY%20PAYPAL-orange)](https://paypal.me/Hadikob)
