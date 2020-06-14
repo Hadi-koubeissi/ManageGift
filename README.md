@@ -4,7 +4,7 @@
 
 [![online bot](https://discordbots.org/api/widget/status/598564396691750933.png)](https://discordbots.org/bot/598564396691750933)
 [![version](https://img.shields.io/github/package-json/v/Hadi-Koubeissi/id-code-?color=%23dd2349&style=for-the-badge)](https://github.com/Hadi-Koubeissi/ManageGift)
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm&style=for-the-badge)](https://github.com/discordjs)
 [![discord](https://img.shields.io/discord/710852417100578849?color=blue&label=DISCORD&style=for-the-badge)](https://discord.gg/7XfV4Md)
 [![support](https://img.shields.io/badge/SUPPORT-BY%20PAYPAL-orange?style=for-the-badge)](https://paypal.me/Hadikob)
 > ManageGift is very easy and simple for use on your server!.
