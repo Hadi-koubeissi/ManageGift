@@ -2,6 +2,8 @@
 
 # ManageGift
 
-[![version](https://img.shields.io/github/package-json/v/Hadi-Koubeissi/id-code-?color=%23343ee3&style=for-the-badge)](https://github.com/Hadi-Koubeissi/ManageGift)
+[![version](https://img.shields.io/github/package-json/v/Hadi-Koubeissi/id-code-?color=%23dd2349&style=for-the-badge)](https://github.com/Hadi-Koubeissi/ManageGift)
 
 [![discord](https://img.shields.io/discord/710852417100578849?color=blue&label=DISCORD&style=for-the-badge)](https://discord.gg/7XfV4Md)
+
+<img src="./assets/donate.jpg" href="https://paypal.me/Hadikob">
