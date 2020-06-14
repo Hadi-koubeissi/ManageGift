@@ -2,7 +2,7 @@
 
 # ManageGift
 
-[![](https://discordbots.org/api/widget/status/598564396691750933.svg&style=for-the-badge)](https://discordbots.org/bot/598564396691750933)
+[![online bot](https://discordbots.org/api/widget/status/598564396691750933.svg=style=for-the-badge)](https://discordbots.org/bot/598564396691750933)
 [![version](https://img.shields.io/github/package-json/v/Hadi-Koubeissi/id-code-?color=%23dd2349&style=for-the-badge)](https://github.com/Hadi-Koubeissi/ManageGift)
 [![discord](https://img.shields.io/discord/710852417100578849?color=blue&label=DISCORD&style=for-the-badge)](https://discord.gg/7XfV4Md)
 [![support](https://img.shields.io/badge/SUPPORT-BY%20PAYPAL-orange?style=for-the-badge)](https://paypal.me/Hadikob)
