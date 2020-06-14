@@ -6,4 +6,4 @@
 
 [![discord](https://img.shields.io/discord/710852417100578849?color=blue&label=DISCORD&style=for-the-badge)](https://discord.gg/7XfV4Md)
 
-<img src="./assets/donate.jpg" href="https://paypal.me/Hadikob">
+[![Dnate](https://img.shields.io/badge/SUPPORT-WITH PAYPAL-orange&style-for-the-badge)](https://paypal.me/Hadikob)
