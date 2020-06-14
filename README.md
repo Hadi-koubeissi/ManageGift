@@ -8,4 +8,16 @@
 > ManageGift is very easy and simple for use on your server!.
 
 ## ✨  Features
-> Total Commands In The ManageGift is **9 commands**! and More Soon.
+
+> 😊 Total Commands In The ManageGift is **9 commands**! and More Soon.
+> 🚀 24/7 ManageGift Online.
+> 🔓 Open source.
+
+### 🎁 Giveaway Commands 
+
+```
+%gstart                for start giveaway
+%gedit                 for edit giveaway
+%gend                  for end giveaway
+%reroll                for choose new winners
+```
